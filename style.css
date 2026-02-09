@@ -2,6 +2,8 @@ body {
   text-align: center;
   margin-top: 100px;
   font-family: sans-serif;
+ background-color: #f0f4f8; /* 背景色 */
+  color: #333; /* 文字色 */ 
 }
 
 button {
